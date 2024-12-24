@@ -14,8 +14,8 @@ This dataset contains information about passengers on the Titanic.
 
 ## Notebooks
 
-*   [`UL Project on Images Dataset.ipynb`](UL Project on Images Dataset.ipynb): Implements PCA on the Stanford Dogs image dataset. This notebook covers image loading, preprocessing (resizing, normalization, flattening), covariance matrix calculation, eigenvalue/eigenvector calculation, reconstruction, and visualization of reconstructed images and eigenimages.
-*   [`UL Project on Titanic Dataset .ipynb`](UL Project on Titanic Dataset .ipynb): Implements PCA on the Titanic tabular dataset. This notebook covers data loading, preprocessing (handling missing values, scaling), covariance matrix calculation, eigenvalue/eigenvector calculation, selection of principal components, transformation, reconstruction error calculation, and visualization of explained variance.
+*   [`UL Project on Images Dataset.ipynb`]: Implements PCA on the Stanford Dogs image dataset. This notebook covers image loading, preprocessing (resizing, normalization, flattening), covariance matrix calculation, eigenvalue/eigenvector calculation, reconstruction, and visualization of reconstructed images and eigenimages.
+*   [`UL Project on Titanic Dataset .ipynb`]: Implements PCA on the Titanic tabular dataset. This notebook covers data loading, preprocessing (handling missing values, scaling), covariance matrix calculation, eigenvalue/eigenvector calculation, selection of principal components, transformation, reconstruction error calculation, and visualization of explained variance.
 
 ## Key Concepts Demonstrated
 
